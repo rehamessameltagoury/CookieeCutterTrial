@@ -1,7 +1,7 @@
 CookieCutter
 ==============================
 
-rying Data Science project strctre using cookie cutters
+trying Data Science project structure using cookie cutters
 
 Project Organization
 ------------
